@@ -22,10 +22,10 @@ npm install
 npm start
 ```
 
-## Usage
+## Running
 
 ```bash
-running on localhost:8000
+on localhost:8000
 ```
 
 ## Contributing
